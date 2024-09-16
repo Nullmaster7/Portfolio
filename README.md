@@ -1,4 +1,4 @@
-#3D Developer Portfolio
+# 3D Developer Portfolio
 This portfolio showcases my expertise in modern web development technologies and features a dynamic, visually appealing 3D experience built with:
 
 React and Vite for fast, efficient, and modular frontend development.
