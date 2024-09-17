@@ -9,9 +9,9 @@ import {
     redux,
     tailwind,
     nodejs,
-    mongodb,
+    playwright,
     git,
-    figma,
+    selenium,
     docker,
     huawei,
     ronwell,
@@ -91,8 +91,8 @@ const technologies = [
         icon: nodejs,
     },
     {
-        name: "MongoDB",
-        icon: mongodb,
+        name: "Selenium",
+        icon: selenium,
     },
     {
         name: "Three JS",
@@ -103,8 +103,8 @@ const technologies = [
         icon: git,
     },
     {
-        name: "figma",
-        icon: figma,
+        name: "Playwright",
+        icon: playwright,
     },
     {
         name: "docker",

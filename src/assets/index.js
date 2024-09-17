@@ -18,6 +18,8 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
+import selenium from "./tech/selenium.png"
+import playwright from "./tech/playwright.png"
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
@@ -48,6 +50,8 @@ export {
   mongodb,
   nodejs,
   reactjs,
+  playwright,
+  selenium,
   redux,
   tailwind,
   typescript,
